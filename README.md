@@ -1,42 +1,7 @@
 # Warshal's Algorithm Calculator
-Warshall's algorithm
 
-Sample Execution:
-here is your starting array.
-0 1 0 0 
-0 0 1 0 
-0 0 0 1 
-0 0 0 0 
+![image](https://github.com/SanjayDotZDR/WarshallsAlgorithm/assets/123923608/7972ee83-4caa-43a4-8443-cbc3e829332c)
 
-----------------------------------------
+![image](https://github.com/SanjayDotZDR/WarshallsAlgorithm/assets/123923608/a636a137-512a-4e9e-a110-c2d9f3c8e2a5)
 
-Here is W1
-0 1 0 0 
-0 0 1 0 
-0 0 0 1 
-0 0 0 0 
-
-----------------------------------------
-
-Here is W2
-0 1 1 0 
-0 0 1 0 
-0 0 0 1 
-0 0 0 0 
-
-----------------------------------------
-
-Here is W3
-0 1 1 1 
-0 0 1 1 
-0 0 0 1 
-0 0 0 0 
-
-----------------------------------------
-
-Here is W4
-0 1 1 1 
-0 0 1 1 
-0 0 0 1 
-0 0 0 0 
 
